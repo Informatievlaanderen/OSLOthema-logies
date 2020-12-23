@@ -1,6 +1,6 @@
 {
   "naam": "Applicatieprofiel Toeristische Logies Basis",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/logies-basis/standaard/2019-03-14/all-logies-basis.jsonld",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/logies-basis/ontwerpstandaard/2019-03-14/all-logies-basis.jsonld",
   "verantwoordelijke_organisatie": "Toerisme Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO000034",
   "publicatiedatum": "2019-12-05",

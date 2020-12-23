@@ -1,6 +1,6 @@
 {
   "naam": "Vocabularium Toeristische Logies",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/logies/standaard/2019-03-14/all-logies.jsonld",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/logies/ontwerpstandaard/2019-03-14/all-logies.jsonld",
   "verantwoordelijke_organisatie": "Toerisme Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO000034",
   "publicatiedatum": "2019-12-05",
